@@ -1,2 +1,2 @@
 # learning
-iin this repo I share codes of c c++ and java  
+in this repo I share codes of c c++ and java  
